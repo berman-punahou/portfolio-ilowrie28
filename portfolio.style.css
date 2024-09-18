@@ -1,0 +1,49 @@
+body {
+  background-color:  black;
+}
+html {
+    height: 100%;
+    width: 100%;
+}
+
+.row {
+    height: auto;
+}
+
+#picbox {
+    background-color: aquamarine;
+}
+
+#box-a {
+    background-color: darkred;
+}
+
+#box-b {
+    background-color: darkred;
+}
+
+#box-c {
+    background-color: darkred;
+}
+
+#box-d {
+    background-color: darkred;
+}
+
+ .highlight {
+    background-color: black;
+}
+
+#Blam {
+    background-color: darkred;
+}
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.roboto-slab-<uniquifier> {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
